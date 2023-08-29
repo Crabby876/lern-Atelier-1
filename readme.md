@@ -12,9 +12,9 @@ Ich denke das Programmieren von einem Währungsrechner sollte nicht sehr schwär
 
 ## Arbeitspakete für 29.08.2023
 
-- [ ] Über die Programmiersprache C# informieren
 - [ ] Ein Proggram das begrüssen kann programieren
 - [ ] Ein Programm das Währungen umrechnen Kann programmieren
+- [ ] Ratespiel anfangen.
 - [ ] Modul 431 üben
 
 ✍️  Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
