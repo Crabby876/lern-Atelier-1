@@ -12,9 +12,21 @@ Ich denke das Programmieren von einem Währungsrechner sollte nicht sehr schwär
 
 ## Arbeitspakete für 29.08.2023
 
-- [ ] Ein Proggram das begrüssen kann programieren
-- [ ] Ein Programm das Währungen umrechnen Kann programmieren
-- [ ] Ratespiel anfangen.
-- [ ] Modul 431 üben
+- [x] Ein Proggram das begrüssen kann programieren
+- [x] Ein Programm das Währungen umrechnen Kann programmieren
+- [x] Ratespiel anfangen.
+- [x] Modul 431 üben
 
-✍️  Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
+Ich finde ich habe heute gut geabeited ich habe 3 Programme gemacht jedoch habe ich keine Zeit für Modul 431 gehabt am Ende. Heute habe ich sehr viel neues gelernt z.B wie man ein loop macht oder wie man if/else benutz .Sicher werden mir diese Informationen noch oft helfenauch beim Modul 319. Für nächstesmal könnte ich fielleicht sachen die nicht sehr viel Zeitbrauchen programmieren damit ich auch noch für den letzten Ziel genug Zeit habe. (75 Wörter)
+
+## Grob-Planung 
+
+## Leit-Satz
+Modul weiter machen und Programmieren übern.
+
+- [ ] Taschenrechner programmieren
+- [ ] Datei speicherndes Programm (Name...)
+- [ ] Weiter arbeiten an Modul 319
+- [ ] Weiter arbeiten an Modul 431
+
+
