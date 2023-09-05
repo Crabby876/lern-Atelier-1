@@ -17,7 +17,7 @@ Ich denke das Programmieren von einem Währungsrechner sollte nicht sehr schwär
 - [x] Ratespiel anfangen.
 - [x] Modul 431 üben
 
-Ich finde ich habe heute gut geabeited ich habe 3 Programme gemacht jedoch habe ich keine Zeit für Modul 431 gehabt am Ende. Heute habe ich sehr viel neues gelernt z.B wie man ein loop macht oder wie man if/else benutz .Sicher werden mir diese Informationen noch oft helfenauch beim Modul 319. Für nächstesmal könnte ich fielleicht sachen die nicht sehr viel Zeitbrauchen programmieren damit ich auch noch für den letzten Ziel genug Zeit habe. (75 Wörter)
+Ich finde ich habe heute gut geabeited ich habe 3 Programme gemacht jedoch habe ich keine Zeit für Modul 431 gehabt am Ende. Heute habe ich sehr viel neues gelernt z.B wie man ein loop macht oder wie man if/else benutz .Sicher werden mir diese Informationen noch oft helfen auch beim Modul 319. Für nächstesmal könnte ich fielleicht sachen die nicht sehr viel Zeitbrauchen programmieren damit ich auch noch für den letzten Ziel genug Zeit habe. (75 Wörter)
 
 ## Grob-Planung 
 
@@ -26,7 +26,18 @@ Modul weiter machen und Programmieren übern.
 
 - [x] Taschenrechner programmieren
 - [ ] Datei speicherndes Programm (Name...)
+- [x] Weiter arbeiten an Modul 319
+- [x] Weiter arbeiten an Modul 431
+
+
+Ich habe denn Taschenrechner erfolgreich programmiert hat auch nicht sehr viel zeit gekosstet. Je doch das Datenbank Programm hat mich mehr Zeit gekostet als ich gedacht hätte des halb habe ich es nicht ganz fertig gmacht un habe statt dessen an den Module weiter gemacht. Durch den Datenbank Programm habe ich geler was Dictionaries sind.
+
+## Grob-Planung 
+
+## Leit-Satz
+Ich mchte das Programm was ich angefangen habe ferti machen und etwas mehr Zeit in die Module investieren als sonst
+
+- [ ] Datei speicherndes Programm (Name...) weiter machen und entstandene probleme lösen
 - [ ] Weiter arbeiten an Modul 319
 - [ ] Weiter arbeiten an Modul 431
-
-
+- [ ] E-Portfoios machen
