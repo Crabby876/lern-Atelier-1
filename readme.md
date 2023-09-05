@@ -24,7 +24,7 @@ Ich finde ich habe heute gut geabeited ich habe 3 Programme gemacht jedoch habe 
 ## Leit-Satz
 Modul weiter machen und Programmieren übern.
 
-- [ ] Taschenrechner programmieren
+- [x] Taschenrechner programmieren
 - [ ] Datei speicherndes Programm (Name...)
 - [ ] Weiter arbeiten an Modul 319
 - [ ] Weiter arbeiten an Modul 431
