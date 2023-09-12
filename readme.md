@@ -52,9 +52,9 @@ Ich starte einen neuen einwenig schwäeren Projeckt. Ich will ein Wokabel abfrag
 - [ ] Das neue Projeckt Wokabeltrainer staten
       
       | Nummer | Eingabe | Verarbeitung | Ausgabe |
-      | ------ | ------ | ------------- | ------- |
-      | 1. | Wokabeln eingeben | Eingabe speichern | Wokabeln abfrage |
-      | 2. | Übersetzung eingeben | kontrollieren | Richtig oder Falsch(fals falsch am ende nochmal alle fehler abfragen) |
+      | --- | --- | --- | --- |
+      | 1 | Wokabeln eingeben | Eingabe speichern | Wokabeln abfrage |
+      | 2 | Übersetzung eingeben | kontrollieren | Richtig oder Falsch, fals falsch am ende nochmal alle fehler abfragen |
       
 - [ ] Aufträtende Probleme lösen
 - [ ] Fals noch Zeit Modul weiter arbeiten.
