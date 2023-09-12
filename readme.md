@@ -52,6 +52,7 @@ Ich starte einen neuen einwenig schwäeren Projeckt. Ich will ein Wokabel abfrag
 - [ ] Das neue Projeckt Wokabeltrainer staten     
 - [ ] Aufträtende Probleme lösen
 - [ ] Fals noch Zeit Modul weiter arbeiten.
+      
 
 | Nummer | Eingabe | Verarbeitung | Ausgabe |
 | --- | --- | --- | --- |
