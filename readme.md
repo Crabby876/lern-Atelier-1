@@ -50,6 +50,7 @@ Ich habe das Programmieren einwenig geübt zu erst mit dem modul 319 und danach 
 Ich starte einen neuen einwenig schwäeren Projeckt. Ich will ein Wokabel abfrager programmieren.
 
 - [ ] Das neue Projeckt Wokabeltrainer staten
+      
       |Nummer|Eingabe|Verarbeitung|Ausgabe|
       |1.|Wokabeln eingeben|Eingabe speichern|Wokabeln abfrage|
       |2.|Übersetzung eingeben|kontrollieren|Richtig oder Falsch(fals falsch am ende nochmal alle fehler abfragen)|
