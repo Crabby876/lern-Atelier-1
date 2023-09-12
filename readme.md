@@ -37,7 +37,22 @@ Ich habe denn Taschenrechner erfolgreich programmiert hat auch nicht sehr viel z
 ## Leit-Satz
 Ich mchte das Programm was ich angefangen habe ferti machen und etwas mehr Zeit in die Module investieren als sonst
 
-- [ ] Datei speicherndes Programm (Name...) weiter machen und entstandene probleme lösen
-- [ ] Weiter arbeiten an Modul 319
-- [ ] Weiter arbeiten an Modul 431
+- [x] Datei speicherndes Programm (Name...) weiter machen und entstandene probleme lösen
+- [x] Weiter arbeiten an Modul 319
+- [x] Weiter arbeiten an Modul 431
 - [ ] E-Portfoios machen
+
+Ich habe das Programmieren einwenig geübt zu erst mit dem modul 319 und danach habe ich den Programm fertiggestellt. Den rest der zeit habe ich noch für den Modul 431 genutzt. Heute habe ich nicht sehr viel dazugelernt aber ich habe einen Problem gelöst was mir spass gemacht hat aber mich auch mancham aufgeregt hat.
+
+## Grob-Planung 19.09.2023
+
+## Leit-Satz
+Ich starte einen neuen einwenig schwäeren Projeckt. Ich will ein Wokabel abfrager programmieren.
+
+- [ ] Das neue Projeckt Wokabeltrainer staten
+      |Nummer|Eingabe|Verarbeitung|Ausgabe|
+      |1.|Wokabeln eingeben|Eingabe speichern|Wokabeln abfrage|
+      |2.|Übersetzung eingeben|kontrollieren|Richtig oder Falsch(fals falsch am ende nochmal alle fehler abfragen)|
+      
+- [ ] Aufträtende Probleme lösen
+- [ ] Fals noch Zeit Modul weiter arbeiten.
