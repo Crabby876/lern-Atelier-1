@@ -49,12 +49,11 @@ Ich habe das Programmieren einwenig geübt zu erst mit dem modul 319 und danach 
 ## Leit-Satz
 Ich starte einen neuen einwenig schwäeren Projeckt. Ich will ein Wokabel abfrager programmieren.
 
-- [ ] Das neue Projeckt Wokabeltrainer staten
-      
-      | Nummer | Eingabe | Verarbeitung | Ausgabe |
-      | --- | --- | --- | --- |
-      | 1 | Wokabeln eingeben | Eingabe speichern | Wokabeln abfrage |
-      | 2 | Übersetzung eingeben | kontrollieren | Richtig oder Falsch, fals falsch am ende nochmal alle fehler abfragen |
-      
+- [ ] Das neue Projeckt Wokabeltrainer staten     
 - [ ] Aufträtende Probleme lösen
 - [ ] Fals noch Zeit Modul weiter arbeiten.
+
+| Nummer | Eingabe | Verarbeitung | Ausgabe |
+| --- | --- | --- | --- |
+| 1 | Wokabeln eingeben | Eingabe speichern | Wokabeln abfrage |
+| 2 | Übersetzung eingeben | kontrollieren | Richtig oder Falsch, fals falsch am ende nochmal alle fehler abfragen |
