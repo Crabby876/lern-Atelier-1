@@ -49,8 +49,8 @@ Ich habe das Programmieren einwenig geübt zu erst mit dem modul 319 und danach 
 ## Leit-Satz
 Ich starte einen neuen einwenig schwäeren Projeckt. Ich will ein Wokabel abfrager programmieren.
 
-- [ ] Das neue Projeckt Wokabeltrainer staten     
-- [ ] Aufträtende Probleme lösen
+- [x] Das neue Projeckt Wokabeltrainer staten     
+- [x] Aufträtende Probleme lösen
 - [ ] Fals noch Zeit Modul weiter arbeiten.
       
 
@@ -58,3 +58,18 @@ Ich starte einen neuen einwenig schwäeren Projeckt. Ich will ein Wokabel abfrag
 | --- | --- | --- | --- |
 | 1 | Wokabeln eingeben | Eingabe speichern | Wokabeln abfrage |
 | 2 | Übersetzung eingeben | kontrollieren | Richtig oder Falsch, fals falsch am ende nochmal alle fehler abfragen |
+
+
+
+Heute war ich sehr zufrieden mit meiner Leistung. Ich habe meinen neuen Projeckt Wokabeltrainer gestarted und bin sehr weit gekommen. Immoment kann man die Wörter mit übersetzung eingeben danach kann man sie üben oder tesetn. Leider kann man das nur einmal mit allen wörtern machen und das möchte ich verbessern. Ich habe alles aus meine Programm verstanden was es macht und wie es funktioniert was auch ziemlich gut ist in miner Meinung. Weil ein Programm den man zur Hälfte vom Internet kopiert bringt nicht denke ich.
+
+## Grob-Planung 19.09.2023
+
+## Leit-Satz
+Ich ergenze meinen neuen Projeckt vo fürich auch zu erst neue sachen rechechieren und lernen musss.
+
+- [ ] Modul 319 die fälligen E-portfolios machen   
+- [ ] Informieren über das Speichern von Dictionarys in eine Text Datei
+- [ ] Mein Projeckt mit neum Wissen erweitern.
+
+
