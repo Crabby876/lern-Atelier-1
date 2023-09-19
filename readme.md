@@ -63,7 +63,7 @@ Ich starte einen neuen einwenig schwäeren Projeckt. Ich will ein Wokabel abfrag
 
 Heute war ich sehr zufrieden mit meiner Leistung. Ich habe meinen neuen Projeckt Wokabeltrainer gestarted und bin sehr weit gekommen. Immoment kann man die Wörter mit übersetzung eingeben danach kann man sie üben oder tesetn. Leider kann man das nur einmal mit allen wörtern machen und das möchte ich verbessern. Ich habe alles aus meine Programm verstanden was es macht und wie es funktioniert was auch ziemlich gut ist in miner Meinung. Weil ein Programm den man zur Hälfte vom Internet kopiert bringt nicht denke ich.
 
-## Grob-Planung 19.09.2023
+## Grob-Planung 26.09.2023
 
 ## Leit-Satz
 Ich ergenze meinen neuen Projeckt vo fürich auch zu erst neue sachen rechechieren und lernen musss.
