@@ -72,4 +72,6 @@ Ich ergenze meinen neuen Projeckt vo fürich auch zu erst neue sachen rechechier
 - [ ] Informieren über das Speichern von Dictionarys in eine Text Datei
 - [ ] Mein Projeckt mit neum Wissen erweitern.
 
+## Refelxion
 
+Ich habe mich in diesen Wochen sehr gut weiter entwickelt finde ich. Am Anfang wuste ich noch garnichts über Programmieren aber nun verstehe ich es einiger massen. Ich habe mehere kleine Projeckte gemach am anfang hat es mit einem Programm gestarted der den Namen vom Benutzer einliest und ihn dann begrüsst. Dieses Projeckt habe ich einfach gemacht um das mit den eingaben besser zu verstehen. Danach habe ich einen Währungsumrechner gemacht welches eine Eingabe in eine andere Währung um gewandelt hat. Mein letztes Projeckt war ein Vokabeltrainer, welches von dir die Wörter und ihre Übersetzungen einliest und dich dann tested ob du es kann. Ich habe gemerkt das ich, wenn ich lange eine Problem arbeite, schnell abglenkt werden kann und meine Mutivation verlieren kann. Deshalb möchte ich nach den Ferien vieleicht immer eine Abwechslung mit Berechnen für z.B wenn mir ein Projeckt langweilig wird oder ich nicht weiter komme.
